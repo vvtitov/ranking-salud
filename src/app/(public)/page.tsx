@@ -1,5 +1,4 @@
 import { Button } from "@/src/components/ui/button";
-import WorldMap from "@/src/components/ui/world-map";
 export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center h-screen">
